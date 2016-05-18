@@ -3,9 +3,9 @@
 Built for CSC 667- Cards against humanity game using Ruby on rails.
 
 ## Cards against humanity game
-1. Monte 
+1. Anurag Nanda 
 
-2. Nate
+2. Monte
 
 3. Iain
 
